@@ -69,8 +69,9 @@ tree.insert(7)
 tree.insert(13)
 
 print("Inorder traversal:")
-tree.inorder() # Output: 1 3 4 6 7 8 10 13 14
+tree.inorder()
 print("\nPreorder traversal:")
-tree.preorder() # Output: 8 3 1 6 4 7 10 14 13
+tree.preorder()
 print("\nPostorder traversal:")
-tree.postorder() # Output: 1 4 7 6 3 13 14 10 8
+tree.postorder() 
+
